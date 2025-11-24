@@ -1,7 +1,8 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_horde_no_muslim
   color: rgb { 136  153  18 }
-  religion: 
+  religion: tengri
   primary_culture: uzbek_culture
   capital: balasagun
 840.1.1:

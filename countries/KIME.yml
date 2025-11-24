@@ -1,7 +1,8 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_horde_no_muslim
   color: rgb { 23  169  207 }
-  religion: 
+  religion: tengri
   primary_culture: kimek
   capital: imakia
 920.1.1:

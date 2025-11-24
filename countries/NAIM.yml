@@ -1,7 +1,8 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_horde_no_muslim
   color: rgb { 100  50  150 }
-  religion: 
+  religion: tengri
   primary_culture: oirat_culture
   capital: tes
 1120.1.1:

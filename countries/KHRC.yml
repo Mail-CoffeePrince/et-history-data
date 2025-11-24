@@ -1,7 +1,8 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_horde_no_muslim
   color: rgb { 221  93  170 }
-  religion: 
+  religion: tengri
   primary_culture: chahar
   capital: boduna
 1368.1.23:

@@ -1,7 +1,8 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_horde_no_muslim
   color: rgb { 160  160  60 }
-  religion: 
+  religion: tengri
   primary_culture: mongolian_culture
   capital: choyrin_datsan
 1020.1.1:

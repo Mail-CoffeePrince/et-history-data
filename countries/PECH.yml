@@ -1,7 +1,8 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_horde_no_muslim
   color: rgb { 163  149  97 }
-  religion: 
+  religion: tengri
   primary_culture: pecheneg
   capital: or_aktobe
 870.1.1:

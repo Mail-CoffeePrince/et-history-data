@@ -1,7 +1,8 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_horde_no_muslim
   color: rgb { 170  170  50 }
-  religion: 
+  religion: tengri
   primary_culture: hunnic
   capital: zhympity
 330.1.1:

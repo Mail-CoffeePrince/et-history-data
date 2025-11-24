@@ -1,6 +1,7 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_horde_no_muslim
   color: rgb { 186  197  110 }
-  religion: 
+  religion: tengri
   primary_culture: bolghar_culture
   capital: bagayevskaya

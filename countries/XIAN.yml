@@ -1,7 +1,8 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_horde_no_muslim
   color: rgb { 108  53  165 }
-  religion: 
+  religion: tengri
   primary_culture: khitan
   capital: xinkai
 46.1.1:
