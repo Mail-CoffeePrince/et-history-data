@@ -1011,19 +1011,6 @@ eng_richard_i_lionheart:
     nickname: nick_the_lionheart
   1199.4.6:
     death: yes
-eng_eleanor_plantagenet:
-  1161:
-    birth: domfront
-    first_name: name_eleanor
-    dynasty: plantagenet_dynasty
-    female: yes
-    father: eng_henry_ii_curtmantle
-    mother: eng_eleanor_of_aquitaine
-    religion: catholic
-    culture: english
-    tag: ENG
-  1214.10.31:
-    death: yes
 mie_berenguela_jimena:
   1165:
     birth: tudela
@@ -1031,6 +1018,7 @@ mie_berenguela_jimena:
     dynasty: jimena_dynasty
     female: yes
     father: nav_sancho_vi_jimena
+    mother: nav_sancha_of_castile
     adm: 34
     dip: 44
     mil: 42
@@ -1658,6 +1646,8 @@ eng_isabella_of_castille:
     first_name: name_elizabeth
     dynasty: burgundy_castile_dynasty
     female: yes
+    father: cas_pedro_i_burgundy
+    mother: cas_maria_de_padilla
     religion: catholic
     culture: castilian
     tag: CAS
@@ -1782,9 +1772,12 @@ eng_joan_of_navarre:
   1368:
     birth: pamplona
     first_name: name_joanna
+    dynasty: de_evreux_dynasty
     female: yes
+    father: nav_charles_ii_evreux
+    mother: nav_joan_valois
     religion: catholic
-    culture: basque
+    culture: french
     tag: NAV
   1403.2.7:
     spouse: eng_henry_iv_lancaster
@@ -2234,12 +2227,14 @@ eng_catherine_de_trastamara:
     first_name: name_catherine
     dynasty: de_trastamara_dynasty
     female: yes
+    father: ara_ferran_ii_de_trastamara
+    mother: cas_isabel_i_de_trastamara
     adm: 75
     dip: 60
     mil: 60
     religion: catholic
-    culture: aragonese
-    tag: ARA
+    culture: castilian
+    tag: CAS
   1509.6.11:
     spouse: eng_henry_viii_tudor
     tag: ENG
