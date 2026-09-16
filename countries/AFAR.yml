@@ -1,9 +1,0 @@
-#imported from EU4
-2.1.1:
-  government: subsaharan_tribe
-  color: rgb { 115  140  220 }
-  religion: south_arabian
-  primary_culture: afar_culture
-  capital: asaita
-900.1.1:
-  religion: sunni

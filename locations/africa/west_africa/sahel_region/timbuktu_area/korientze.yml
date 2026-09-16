@@ -1,36 +1,34 @@
 #imported from EU4 file: history/provinces/2259 - Bara.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    bozo-bantu_religion: 1
 350.1.1:
-  owner: GHAN
-  controller: GHAN
+  owner: GHA
+  controller: GHA
   cores:
-    GHAN: yes
+    GHA: yes
   resource: grain
 1077.1.1:
   owner: JENN
   controller: JENN
   cores:
-    GHAN: no
+    GHA: no
     JENN: yes
 1130.1.1:
-  owner: GHAN
-  controller: GHAN
+  owner: GHA
+  controller: GHA
   cores:
     JENN: no
-    GHAN: yes
+    GHA: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bozo-bantu_religion: 0
+    bozo-sunni: 1
 1240.1.1:
   owner: MAL
   controller: MAL
   cores:
-    GHAN: no
+    GHA: no
     MAL: yes
 1389.1.1:
   owner: ZAFU

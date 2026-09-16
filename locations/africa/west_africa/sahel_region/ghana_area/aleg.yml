@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1115 - Brakna.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    fulbe-bantu_religion: 1
 800.1.1:
-  owner: TAKR
-  controller: TAKR
+  owner: TKR
+  controller: TKR
   cores:
-    TAKR: yes
+    TKR: yes
   resource: slaves
 1285.1.1:
   owner: MAL
@@ -20,7 +18,7 @@
   controller: XXX
   cores:
     MAL: no
-    TAKR: no
+    TKR: no
 1490.1.1:
   owner: FUL
   controller: FUL
@@ -28,9 +26,9 @@
     FUL: yes
   resource: slaves
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    fulbe-bantu_religion: 0
+    fulbe-sunni: 1
 1861.1.1:
   owner: SEGU
   controller: SEGU

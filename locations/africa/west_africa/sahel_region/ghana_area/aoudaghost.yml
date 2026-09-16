@@ -1,36 +1,34 @@
 #imported from EU4 file: history/provinces/2244 - Tagant.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    hassaniya-bantu_religion: 1
 350.1.1:
-  owner: GHAN
-  controller: GHAN
+  owner: GHA
+  controller: GHA
   cores:
-    GHAN: yes
+    GHA: yes
   resource: salt
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hassaniya-bantu_religion: 0
+    hassaniya-sunni: 1
 1054.1.1:
   owner: MOR
   controller: MOR
   cores:
     MOR: yes
 1121.1.1:
-  owner: GHAN
-  controller: GHAN
+  owner: GHA
+  controller: GHA
   cores:
     MOR: no
-    GHAN: yes
+    GHA: yes
 1235.1.1:
   owner: XXX
   controller: XXX
   cores:
     MOR: no
-    GHAN: no
+    GHA: no
 1904.1.1:
   owner: FRA
   controller: FRA

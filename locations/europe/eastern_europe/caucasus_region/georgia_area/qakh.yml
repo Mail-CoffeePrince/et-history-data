@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4305 - Shaki.txt
 2.1.1:
+  pops: 
+    aghwan-zoroastrian: 1
   owner: CALB
   controller: CALB
   cores:
     CALB: yes
   resource: wool
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 253.1.1:
   cores:
     ERA: yes
@@ -41,13 +39,13 @@
     IBER: no
     KAKH: yes
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aghwan-zoroastrian: 0
+    aghwan-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aghwan-chalcedonism: 0
+    aghwan-orthodox: 1
 1029.1.1:
   owner: GEO
   controller: GEO
@@ -60,10 +58,9 @@
     GEO: no
     KAKH: yes
 1080.1.1:
-  pops:
-    - religion: shia
-      estate: peasant
-      size: 1000
+  pops: 
+    aghwan-orthodox: 0
+    azeri_culture-shia: 1
 1110.1.1:
   owner: GEO
   controller: GEO
@@ -75,16 +72,16 @@
   cores:
     MGE: yes
 1260.1.1:
-  owner: SHIR
-  controller: SHIR
+  owner: SRV
+  controller: SRV
   cores:
     ILK: no
-    SHIR: yes
+    SRV: yes
 1501.7.1:
   owner: IRA
   controller: IRA
   cores:
-    SHIR: no
+    SRV: no
     IRA: yes
 1578.9.9:
   controller: TUR
@@ -99,8 +96,8 @@
   cores:
     TUR: no
 1747.1.1:
-  owner: SHIR
-  controller: SHIR
+  owner: SRV
+  controller: SRV
 1805.12.25:
   controller: RUS
 1813.10.12:

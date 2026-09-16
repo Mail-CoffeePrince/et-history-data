@@ -1,34 +1,32 @@
 #imported from EU4 file: history/provinces/1112 - Trarza.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    wolof-bantu_religion: 1
 800.1.1:
-  owner: TAKR
-  controller: TAKR
+  owner: TKR
+  controller: TKR
   cores:
-    TAKR: yes
+    TKR: yes
   resource: salt
 1350.1.1:
   owner: JOL
   controller: JOL
   cores:
-    TAKR: no
+    TKR: no
     JOL: yes
 1820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wolof-bantu_religion: 0
+    wolof-sunni: 1
 1875.1.1:
   owner: SEGU
   controller: SEGU
   cores:
     SEGU: yes
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wolof-sunni: 0
+    masmuda-sunni: 1
 1890.1.1:
   owner: FRA
   controller: FRA

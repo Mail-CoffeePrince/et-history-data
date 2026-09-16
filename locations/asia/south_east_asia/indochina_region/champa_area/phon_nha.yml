@@ -1,30 +1,28 @@
 #imported from EU4 file: history/provinces/2373 - Thuan Hoa.txt
 2.1.1:
+  pops: 
+    vietnamese_culture-hindu: 1
   owner: HUYN
   controller: HUYN
   cores:
     HUYN: yes
   resource: incense
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 192.1.1:
-  owner: CHAM
-  controller: CHAM
+  owner: CHA
+  controller: CHA
   cores:
     HUYN: no
-    CHAM: yes
+    CHA: yes
 1306.1.1:
   owner: DAI
   controller: DAI
   cores:
-    CHAM: no
+    CHA: no
     DAI: yes
 1320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    vietnamese_culture-hindu: 0
+    vietnamese_culture-mahayana: 1
 1413.1.1:
   owner: MNG
   cores:
